@@ -1,0 +1,22 @@
+﻿  app.c
+  card.c
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\card.c(8,2): warning C4013: 'gets' undefined; assuming extern returning int
+  main.c
+  server.c
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\server.c(4,46): warning C4305: 'initializing': truncation from '__int64' to 'uint8_t'
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\server.c(4,75): warning C4305: 'initializing': truncation from '__int64' to 'uint8_t'
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\server.c(4,102): warning C4305: 'initializing': truncation from '__int64' to 'uint8_t'
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\server.c(18,78): warning C4047: '==': 'uint8_t [20]' differs in levels of indirection from 'int'
+  terminal.c
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\terminal.c(8,2): warning C4013: 'gets' undefined; assuming extern returning int
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\terminal.c(10,48): warning C4047: '==': 'size_t' differs in levels of indirection from 'void *'
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\terminal.c(10,133): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t'
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\terminal.c(10,130): warning C4024: 'strlen': different types for formal and actual parameter 1
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\terminal.c(10,182): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t'
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\terminal.c(10,179): warning C4024: 'strlen': different types for formal and actual parameter 1
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\terminal.c(28,10): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+  Generating Code...
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\terminal.c(23): warning C4716: 'isCardExpired': must return a value
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\server.c(11): warning C4716: 'recieveTransactionData': must return a value
+D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\Payment_Application_Project\server.c(41): warning C4716: 'saveTransaction': must return a value
+  Payment_Application_Project.vcxproj -> D:\Embedded systems\New folder\egfwd\Payment Project\Payment_Application_Project\x64\Debug\Payment_Application_Project.exe

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1657334294 source:d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\app.c
+	"app.h"
+
+1657256279 d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\app.h
+	"card.h"
+	"terminal.h"
+	"server.h"
+
+1657313691 d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\card.h
+	"card.h"
+	<stdint.h>
+
+1657257250 d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\terminal.h
+	"terminal.h"
+	<stdint.h>
+	"card.h"
+
+1657257269 d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\server.h
+	<stdint.h>
+	"card.h"
+	"terminal.h"
+
+1657313661 source:d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\card.c
+	"Card.h"
+	<stdio.h>
+	<string.h>
+
+1657320289 source:d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\main.c
+	<stdio.h>
+	"Card.h"
+	"Terminal.h"
+	"Server.h"
+	"app.h"
+
+1657313714 source:d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\server.c
+	"server.h"
+	<stdio.h>
+
+1657334143 source:d:\embedded systems\new folder\egfwd\payment project\payment_application_project\payment_application_project\terminal.c
+	"Terminal.h"
+	<string.h>
+	<stdio.h>
+
